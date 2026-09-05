@@ -1,2 +1,3 @@
 # huong-dan-dau-noi
-Phạm Văn Hiếu
+Thiết kế: Phạm Văn Hiếu
+Cty: SmartHome Sài Gòn
